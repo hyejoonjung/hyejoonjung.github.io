@@ -17,6 +17,12 @@ author:
   name:           'Andrew Fong'
   url:            ""
 paginate:         5
+
+#category
+category_dir: category/
+tag_dir: tag/
+
+
 # paginate_path:    '/page:num'
                     # Or '/blog/page:num' if you want to move your index pages
 
